@@ -10,16 +10,16 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
+    <string name="textLivroHint">Ingrese el nombre del libro </string>
+    <string name="textAutorHint">Ingrese el nombre del autor </string>
+    <string name="textAno">Año </string>
+    <string name="textAnoLivroHint">informar el año del libro</string>
+    <string name="textSalvar">Ahorrar</string>
 
 
-    <string name="textLivroHint">Enter the name of the book</string>
-    <string name="textAutorHint">Enter the name of the author </string>
-    <string name="textAno">Year </string>
-    <string name="textAnoLivroHint">Report the year of the book</string>
-    <string name="textSalvar">Save</string>
 
     <string-array name="arrayAno">
-        <item>Select...</item>
+        <item>Seleccione...</item>
         <item>2016</item>
         <item>2017</item>
         <item>2018</item>
@@ -27,7 +27,5 @@
         <item>2020</item>
         <item>2021</item>
     </string-array>
-    <string name="txtAtencao">Attention</string>
-
-
+    <string name="txtAtencao">Atención</string>
 </resources>

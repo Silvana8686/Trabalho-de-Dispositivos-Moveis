@@ -12,14 +12,17 @@
 
 
 
-    <string name="textLivroHint">Enter the name of the book</string>
-    <string name="textAutorHint">Enter the name of the author </string>
-    <string name="textAno">Year </string>
-    <string name="textAnoLivroHint">Report the year of the book</string>
-    <string name="textSalvar">Save</string>
+
+
+    <string name="textLivroHint">Digite o nome do livro</string>
+    <string name="textAutorHint">Digite o nome do autor</string>
+    <string name="textAno">Ano </string>
+    <string name="textAnoLivroHint">Informe o ano do livro</string>
+    <string name="textSalvar">Salvar</string>
+
 
     <string-array name="arrayAno">
-        <item>Select...</item>
+        <item>Selecione...</item>
         <item>2016</item>
         <item>2017</item>
         <item>2018</item>
@@ -27,7 +30,8 @@
         <item>2020</item>
         <item>2021</item>
     </string-array>
-    <string name="txtAtencao">Attention</string>
+    <string name="txtAtencao">Atenção</string>
 
 
 </resources>
+
